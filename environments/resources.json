@@ -1,0 +1,14 @@
+{
+    "mmt": {
+        "hotels": "/hotels/",
+        "flights": "/flights/",
+        "trains": "/railways/",
+        "buses": "/bus-tickets/",
+        "misc": [
+            "a",
+            "b",
+            "c"
+        ]
+    },
+    "Amazon": {}
+}

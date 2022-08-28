@@ -1,0 +1,23 @@
+{
+  "name": "qa_automation_wdio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test\\specs\\tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/local-runner": "^7.23.0",
+    "@wdio/mocha-framework": "^7.23.0",
+    "@wdio/spec-reporter": "^7.23.0",
+    "mocha": "^10.0.0",
+    "selenium-standalone": "^8.2.0",
+    "wdio": "^6.0.1",
+    "webdriverio": "^7.23.0"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^7.23.0"
+  }
+}
